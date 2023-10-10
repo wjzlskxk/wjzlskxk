@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzlskxk)](https://github.com/wjzlskxk)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chanibo2)](https://solved.ac/chanibo2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanibo2&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjzlskxk&langs_count=10&layout=compact)]()
 
 ## 💪 skills
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
