@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20Quality%20Front-End%20Developer&fontSize=30&fontAlignY=35)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzlskxk)](https://github.com/wjzlskxk)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chanibo2)](https://solved.ac/chanibo2)
