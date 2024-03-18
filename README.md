@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=High%20Quality%20Front-End%20Developer&fontSize=30&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Front-End%20Developer&fontSize=30&fontAlignY=35)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjzlskxk)](https://github.com/wjzlskxk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjzlskxk&langs_count=10&layout=compact)]()
