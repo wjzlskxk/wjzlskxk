@@ -27,3 +27,7 @@
     - [**DGSW Mail**](mailto:chan2bo2@dgsw.hs.kr)
 - 📱 **SNS**
     - [**Instagram**](https://www.instagram.com/wjslzkxk/)
+ 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{wjzlskxk}?pet-id=1" width="1000" height="120"/>
+</a>
