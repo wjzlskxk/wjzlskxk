@@ -12,6 +12,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![C/C++](https://img.shields.io/badge/C/C++-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)
+[![NextJs] (https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## 🛠️ Tool
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
