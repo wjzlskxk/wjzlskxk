@@ -19,16 +19,24 @@
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Figma](https://img.shields.io/badge/Figma-e630f0?logo=figma&logoColor=white&style=for-the-badge)](https://figma.com/)
 
-## 🔗 Contact Me
-
----
-
-- ✉️ **E-Mail (Click to Send)**
-    - [**Personal**](mailto:chan2bo2@naver.com)
-    - [**Business**](mailto:chan2bo2@naver.com)
-    - [**DGSW Mail**](mailto:chan2bo2@dgsw.hs.kr)
-- 📱 **SNS**
-    - [**Instagram**](https://www.instagram.com/wjslzkxk/)
+### 🙍🏻‍♂️ About me
+<div style="margin: ; text-align: left;" "text-align: left;"> 
+      <a href="https://url.kr/1zhwle">
+          <img src="https://img.shields.io/badge/Portfolio_notion-000000?style=flat-square&logo=Notion&logoColor=white">
+      </a>
+      <a href="https://url.kr/h34nn1">
+          <img src="https://img.shields.io/badge/Portfilio_pdf-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+      </a>
+      <a href="https://velog.io/@wjzlskxk/posts">
+          <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+      </a>
+      <a href="https://www.instagram.com/wjzlskxk">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+      </a>
+      <a href="mailto:chan2bo2@naver.com">
+          <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
+      </a>
+</div>
  
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{wjzlskxk}?pet-id=1" width="1000" height="120"/>
