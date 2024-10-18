@@ -22,19 +22,19 @@
 ### 🙍🏻‍♂️ About me
 <div style="margin: ; text-align: left;" "text-align: left;"> 
       <a href="https://url.kr/1zhwle">
-          <img src="https://img.shields.io/badge/Portfolio_notion-000000?style=flat-square&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white">
       </a>
       <a href="https://url.kr/h34nn1">
-          <img src="https://img.shields.io/badge/Portfilio_pdf-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Portfilio-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
       </a>
       <a href="https://velog.io/@wjzlskxk/posts">
-          <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+          <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
       </a>
       <a href="https://www.instagram.com/wjzlskxk">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
       </a>
       <a href="mailto:chan2bo2@naver.com">
-          <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
+          <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
       </a>
 </div>
  
