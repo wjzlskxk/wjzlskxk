@@ -25,7 +25,7 @@
       <a href="https://url.kr/1zhwle">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white">
       </a>
-      <a href="https://url.kr/h34nn1">
+      <a href="https://drive.google.com/file/d/1i2Qn3kgJ2XhLH7H_2QE8S3yK0BB2xuQE/view?usp=drive_link">
           <img src="https://img.shields.io/badge/Portfilio-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
       </a>
       <a href="https://velog.io/@wjzlskxk/posts">
