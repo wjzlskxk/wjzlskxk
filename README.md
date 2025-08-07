@@ -9,10 +9,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black)](https://typescriptlang.org/)
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![SCSS](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/documentation/)
 [![Node.js](https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 [![C/C++](https://img.shields.io/badge/C/C++-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
